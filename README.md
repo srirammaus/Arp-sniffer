@@ -9,7 +9,7 @@
  ___/ / /|  // // __/ / __/ / /___/ _, _/ 
 /____/_/_|_/___/_/ __/_/   /_____/_/ |_|  
 
-LAHTP ARP Spoof Detector v0.1
+ARP Spoof Detector v0.1
 
 This tool will sniff for ARP packets in the interface and can possibly detect if there is an ongoing ARP spoofing attack. This tool is still in a beta stage. 
 
